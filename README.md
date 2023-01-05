@@ -31,7 +31,7 @@ LOF每日溢价监控助手，用于每日定时检查LOF溢价情况，并自�
 
  - 任意修改[`README.md`](./README.md)中的内容或修改配置文件[`config.cfg`](./config.cfg)触发`Actions`，检查程序是否能正常运行
 
-## 自定义修改
+## 自定义修改 
 
 可在[`config.cfg`](./config.cfg)及[`lof.yml`](./.github/workflows/lof.yml)中修改配置内容：
 
