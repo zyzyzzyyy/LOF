@@ -42,7 +42,7 @@ LOF每日溢价监控助手，用于每日定时检查LOF溢价情况，并自�
  - 仅周内推送：修改[`lof.yml`](./.github/workflows/lof.yml)中的`schedule`
 
  - 设置溢价/折价推送阈值：修改[`config.cfg`](./config.cfg)中的溢价阈值`disLimit`和折价阈值`preLimit`，单位为`%`
-
+  
 
 ## Changelog
 
